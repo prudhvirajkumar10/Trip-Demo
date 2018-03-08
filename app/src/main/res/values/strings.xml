@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Trip Demo</string>
+    <string name="order_id">ORDER ID</string>
+    <string name="items">Items</string>
+    <string name="call">Call</string>
+    <string name="view">View</string>
+    <string name="locate">Locate</string>
+</resources>
